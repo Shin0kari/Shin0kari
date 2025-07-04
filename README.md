@@ -3,7 +3,7 @@
 
 I am a game developer from Voronezh.
 
-Passionate about creating 3D games with clean architecture and well-designed gameplay.  
+Passionate about creating games with clean architecture and well-designed gameplay.  
 Constantly improving my skills and developing my own projects.
 
 ---
