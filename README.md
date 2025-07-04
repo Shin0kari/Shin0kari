@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Shin0kari/Shin0kari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Dima!
 
-Here are some ideas to get you started:
+I am a game developer from Voronezh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about creating 3D games with clean architecture and well-designed gameplay.  
+Constantly improving my skills and developing my own projects.
+
+---
+
+## 🛠 Tech Stack
+
+- Unity / C#
+- Rust / Cargo
+- REST API
+- SQL / PostgreSQL
+- Docker / Docker-compose
+
+---
+
+## Contacts
+
+- Telegram: [@Shinokari](https://t.me/Shinokari)
+- Email: jasper13122@gmail.com
+
+---
+
+![Shin0kari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shin0kari&show_icons=true&theme=tokyonight)
