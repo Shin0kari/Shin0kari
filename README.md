@@ -10,11 +10,10 @@ Constantly improving my skills and developing my own projects.
 
 ## 🛠 Tech Stack
 
-- Unity / C#
-- Rust / Cargo
-- REST API
-- SQL / PostgreSQL
-- Docker / Docker-compose
+- GameDev & Architecture: Unity (3D), C#, Zenject (DI), UniTask, R3, Addressables, Cinemachine, NavMesh, DOTween.
+- Mobile Services (Firebase): Auth, Analytics, Crashlytics, Remote Config, App Check, FCM.
+- Backend & DB: JSON.NET, REST API, PostgreSQL, Docker, Docker Compose, Rust / Cargo
+- QA & Tools: Unity Test Framework, NUnit, Moq, Git (GitHub).
 
 ---
 
