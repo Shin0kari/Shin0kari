@@ -10,7 +10,7 @@ Constantly improving my skills and developing my own projects.
 
 ## 🛠 Tech Stack
 
-- Backend & DB: C#, JSON.NET, REST API, PostgreSQL, Docker, Docker Compose.
+- Backend & DB: C#, Rust, JSON.NET, REST API, PostgreSQL, Docker, Docker Compose.
 - Services & Integration: Firebase (Auth, Remote Config, App Check, FCM).
 - QA & Tools: NUnit, Moq, Git, GitHub.
 - AI-assisted Development: experience using AI tools for code generation and refactoring, debugging, exploring architectural solutions, and preparing documentation.
