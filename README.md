@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Dima!
 
-I am a game developer from Voronezh.
+I am a game developer.
 
 Passionate about creating games with clean architecture and well-designed gameplay.  
 Constantly improving my skills and developing my own projects.
